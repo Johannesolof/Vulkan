@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cu": "cpp",
+        "algorithm": "cpp",
+        "xstring": "cpp"
+    }
+}
